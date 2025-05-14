@@ -65,7 +65,7 @@ This dashboard helps stakeholders answer questions like:
 ## 👤 Author
 
 **Pankaj Kumar**  
-📧 [Your Email]  
+📧 [pankaj955956@gmail.com ]  
 🔗 [LinkedIn Profile or Portfolio]
 
 ---
