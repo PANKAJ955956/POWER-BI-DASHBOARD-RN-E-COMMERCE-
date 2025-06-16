@@ -1,0 +1,12 @@
+📝 Add Installation Steps for Beginners
+Help users who are new to Power BI:
+
+markdown
+Copy
+Edit
+🛠️ Installation Steps
+1. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
+2. Download the `.pbix` file from this repo
+3. Open the file in Power BI Desktop
+4. Refresh data if prompted
+5. Explore the dashboard
